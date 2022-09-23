@@ -1,17 +1,17 @@
 {
 	"ADS": {
-		 "banner_type": "admob",
-		"inter_type": "admob",
-		"native_type": "admob",
+		 "banner_type": "yandex",
+		"inter_type": "ironsource",
+		"native_type": "yandex",
 
 		 
 		"unity_id": "4292105",
 
  
  
-		"banner_yandex": "adf-279013/966533",
+		"banner_yandex": "R-M-1823230-1",
 		"interstitial_yandex": "adf-279013/966533",
-		"native_yandex": "adf-279013/966533",
+		"native_yandex": "R-M-1823230-2",
 		"rewarde_yandex": "adf-279013/966487",
 
 		"interstitial_yandex1": "adf-279013/966533",
@@ -60,7 +60,7 @@
 		"facebook_rewarde2": "ca-app-pub-4567" ,
 
 
-    "ironsource_id": "ca-app-pub-4567",
+    "ironsource_id": "1654739ed",
 		"appodeal_app_key": "ca-app-pub-4567" 
    }
 }
